@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<img align="left" src="https://media.tenor.com/KsvZ1G5XL1UAAAAC/drake-computer.gif" wigth='100%' height='auto'/>
+<div id="header" align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/036/927/659/original/piotr-gamingroom6-export.gif?1619008952" width="100%"/>
+</div>
 
 <br />
 
