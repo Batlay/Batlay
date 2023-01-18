@@ -2,7 +2,7 @@
 
 <img align="left" src="https://media.tenor.com/KsvZ1G5XL1UAAAAC/drake-computer.gif" wigth='100%' height='auto'/>
 
-<br>
+<br />
 
 ### Languages and Tools:
 
