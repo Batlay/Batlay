@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-### Languages and Tools:
-
-<img align="left" src="https://thumbs.gfycat.com/AgedDopeyHarborseal-size_restricted.gif" wigth='100%' height='auto'/>
+<img align="left" src="https://media.tenor.com/KsvZ1G5XL1UAAAAC/drake-computer.gif" wigth='100%' height='auto'/>
 
 <br>
+
+### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
